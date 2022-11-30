@@ -1,0 +1,53 @@
+
+.main{
+    width: 60%;
+    height: 300px;
+    background-color: rgb(163, 172, 181);
+    margin: auto;
+    border-radius: 10px;
+}
+.main1{
+    padding: 40px;
+    background-color: blue;
+}
+.heading{
+    padding-bottom: 20px;
+    height: 50px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: rgb(72, 72, 221);
+    font-size: larger;
+}.body{
+    display: block;
+    margin: auto;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 100px;
+}
+
+.block{
+    display: inline-block;
+    margin: auto;
+    
+}
+.base{
+    margin: auto;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+.base button{
+    background-color: rgb(42, 42, 163);
+    color: white;
+    border: none;
+    padding: 10px;
+}
+#showage{
+    background-color: antiquewhite;
+    text-align: center;
+    color: rgb(27, 27, 174);
+    padding: 10px;
+    font-size: medium;
+
+}
